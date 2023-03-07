@@ -6,15 +6,5 @@
 
 📧 konschat15@gmail.com
 
-Experience
-
-Centre for Research and Technology Hellas, Greece (CERTH)
-
-Data mining and computer vision
-
-Since April 2020 – Thessaloniki(SKG)
-
-Research associate, mainly working on data mining, statistical analysis, data visualizations, pipeline design and data flow between components and machine learning techniques for image analysis or Convolutional Neural Networks(CNNs) aesthetic extraction such as emotions/sentiments, architectural style and many more.
-
 Salut ! 😉
 
